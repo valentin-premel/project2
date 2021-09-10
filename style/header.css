@@ -1,0 +1,16 @@
+.header{
+	padding-bottom: 40px;
+	padding-top: 30px;
+	border-bottom: solid;
+	margin-bottom: 2px;
+}
+
+.sfield{
+	display: flex;
+	margin: auto;
+	width: 400px;
+	border-radius: 5px;
+	height: 40px;
+	font-size: x-large;
+}
+
