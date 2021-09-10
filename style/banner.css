@@ -7,14 +7,9 @@
 	font-family: sans-serif;
 	font-weight: bolder;
 	box-shadow: 2px 2px 10px 0;
+	margin-bottom: 50px;
 }
 
-.search{
-	display: flex;
-	margin: auto;
-	width: 400px;
-	border-radius: 5px;
-}
 
 .banner h1{
 	font-size: 40px;
