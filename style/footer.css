@@ -10,10 +10,11 @@ footer{
 	padding: 60px;
 	box-shadow: 2px 2px 10px 0;
 	height: 800px;
+	margin-bottom: 20px;
 	flex-wrap: wrap;
 }
 
-footer div .foot{
+footer div .form{
 	padding-right: 100px;
 	padding-left: 80px;
 	margin-top: 2000px;
@@ -28,5 +29,6 @@ footer div .foot{
 
 .border{
 	border-right: solid;
+	padding-right: 100px;
 }
 
